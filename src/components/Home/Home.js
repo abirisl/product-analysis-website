@@ -2,6 +2,7 @@ import React, { useEffect, useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import useReviews from '../../hooks/customerReviews';
 import img from '../../images/Drone3.png';
+import Item from '../Item/Item';
 import './Home.css'
 
 const Home = () => {
@@ -28,7 +29,7 @@ const Home = () => {
          <div>
              <h2>Customer Reviews</h2>
              {
-                 reviews.map( review=> <p>{review.name}</p>)
+               reviews.slice(0,3).map(item => <Item item={item}></Item>) 
              }
 
          </div>
