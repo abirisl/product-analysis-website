@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Jubair Hossain",
+        "img": "",
+        "reviews":"The best drones have brought responsive flying experiences to the masses, and their camera and streaming capabilities have made it cheaper and easier for filmmakers to take to the skies for a smooth, 4K aerial shot. We dive into the entry-level and enthusiast options from popular drone makers, like DJI, to see what each new drone brings to the market."
+    },
+    {
+        "id": 2,
+        "name": "Robiul Hasan",
+        "img": "",
+        "reviews":"I chose the Qcopter after reading many positive reviews but my experience has not been positive. One of the joysticks snapped off the remote within 2 minutes of use. Still usable but broken. On the second flight the quad began to drift more and more. It will no longer calibrate so now when it takes off I have to fight to control it but it still seems to have a mind of its own. One battery lasts about 3 minutes, the other gives me 15 minutes. The smart phone holder is useless, tabs are too shallow to hold phone."
+    },
+    {
+        "id": 3,
+        "name": "Jahidul Islam",
+        "img": "",
+        "reviews":"This drone was very easy for my twin daughters to figure out and fly. They each had their own drown and were able to fly them at the same time. They each got the hand of flying the drones in the first couple of minutes and and had them flying all over. Their flight time was easily 15 to 20 minutes. "
+    },
+    {
+        "id": 4,
+        "name": "Junayed Hossain",
+        "img": "",
+        "reviews":"This was not my first experience with a drone and can say that this was not worth the money. The drone itself is complete garbage: it is built with cheap parts and does not get off the ground! The box was not damaged, but came with missing parts such as the charger for the batteries, landing gear, and screws for the propeller guards so they just fall off"
+    },
+    {
+        "id": 5,
+        "name": "Nahidul Islam",
+        "img": "",
+        "reviews":"Really enjoying my first drone, I would recommend this to everyone, easy to fly and the seller, Mike works hard to make sure you are well informed ahead of it's arrival by sending instructions with video links, exception customer service. "
+    },
+    {
+        "id": 6,
+        "name": "Muntakim Hossen",
+        "img": "",
+        "reviews":"Best ever. It was for my brother and he and his work buddies are really enjoying it. Not getting much work done, I think, but they are having a blast. This was the best vendor ever. Mike is great to deal with, and is very conscientious about his customer's satisfaction. Thanks very much for a great purchase."
+    }
+]
