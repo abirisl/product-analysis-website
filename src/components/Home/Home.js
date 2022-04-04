@@ -2,7 +2,6 @@ import React, { useEffect, useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import useReviews from '../../hooks/customerReviews';
 import img from '../../images/Drone3.png';
-import Reviews from '../Reviews/Reviews';
 import './Home.css'
 
 const Home = () => {
