@@ -28,9 +28,11 @@ const Home = () => {
            </div>
          <div>
              <h2>Customer Reviews</h2>
+             <div  className='reviews-card'>
              {
                reviews.slice(0,3).map(item => <Item item={item}></Item>) 
              }
+             </div>
 
          </div>
          <button onClick={reviewsBtn}>see all reviews</button>
