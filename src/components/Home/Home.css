@@ -1,6 +1,6 @@
 .container{
-    padding: 20px;
-    background-color: bisque;
+    padding: 0px;
+    margin-bottom: 15px;
 }
 h1{
     font-size: 100px;
@@ -8,6 +8,7 @@ h1{
 }
 .home-container{
     display: flex;
+    background-color: bisque;
 }
 .home-container img{
     width: 500px;
@@ -19,6 +20,7 @@ h1{
 .reviews-card{
   display: grid;
   grid-template-columns: repeat(3,1fr);
+  
     
 }
 .btn{
