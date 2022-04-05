@@ -21,3 +21,11 @@ h1{
   grid-template-columns: repeat(3,1fr);
     
 }
+.btn{
+    font-size: 30px;
+    margin-right: 400px;
+    margin-top: 10px;
+    background-color: darkgrey;
+    color: darkslateblue;
+}
+

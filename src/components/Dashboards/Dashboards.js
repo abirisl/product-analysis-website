@@ -45,7 +45,7 @@ const Dashboards = () => {
         
           <div className='chart'>
               <div>
-              <BarChart width={700} height={300} data={data}>
+              <BarChart width={500} height={400} data={data}>
               <CartesianGrid strokeDasharray= "3 3" />
               <XAxis datakey= "month" />
               <YAxis/>
@@ -54,8 +54,8 @@ const Dashboards = () => {
               <Bar dataKey="revenue" stackId="a" fill="#8884d8"/>
           </BarChart>
               </div>
-            <div>
-                <ComposedChart width={700} height={300} data={data}>
+            <div className='compose-chart'>
+                <ComposedChart width={500} height={400} data={data}>
                     <XAxis dataKey="month"/>
                     <YAxis/>
                     <Legend/>

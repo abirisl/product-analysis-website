@@ -1,0 +1,14 @@
+.question{
+    display: flex;
+    padding: 30px;
+}
+.first-question{
+    border: 2px solid rebeccapurple;
+    padding: 20px;
+}
+.second-question{
+    margin-left: 200px;
+    padding: 20px;
+    border: 2px solid rebeccapurple;
+
+}

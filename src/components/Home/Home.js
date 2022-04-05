@@ -21,16 +21,18 @@ const Home = () => {
            <div className="heading-text">
                <h1>Drone</h1>
                <p>ORION 2 Persistent Drone Flight Test To improve our understanding of our customers’ requirements, Elistair's R&D team recently flew the Orion 2 persistent drone continuously for 50 hours. The purpose of this flight test was to further investigate the Orion 2's...</p>
+               <button className='btn'>Click Me</button>
            </div>
            <div>
                   <img src={img} alt="" />
          </div>
            </div>
+          
          <div>
              <h2>Customer Reviews</h2>
              <div  className='reviews-card'>
              {
-               reviews.slice(0,3).map(item => <Item item={item}></Item>) 
+               reviews.slice(0,3).map(item => <Item key={item.id} item={item}></Item>) 
              }
              </div>
 

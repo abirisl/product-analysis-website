@@ -4,7 +4,7 @@ import './Item.css'
 const Item = ({item}) => {
     const {name,reviews} = item
     return (
-        <div>
+        <div className='item'>
             <h5>{name}</h5>
             <p>{reviews}</p>
         </div>
